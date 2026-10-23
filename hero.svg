@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-label="BMray — Твой маршрут. Твои правила.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111813"/><stop offset="1" stop-color="#090d0b"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#243126" stroke-width=".7"/></pattern><radialGradient id="glow"><stop stop-color="#b8f94c" stop-opacity=".18"/><stop offset="1" stop-color="#b8f94c" stop-opacity="0"/></radialGradient></defs>
+<rect width="1280" height="430" rx="24" fill="url(#bg)"/><rect x="650" width="630" height="430" fill="url(#grid)"/><circle cx="1040" cy="205" r="300" fill="url(#glow)"/>
+<path d="M730 340h80l80-80h210l100-100h80" stroke="#b8f94c" stroke-opacity=".35" fill="none"/><path d="M750 100h70l75 75h200l60 60h125" stroke="#b8f94c" stroke-opacity=".2" fill="none"/>
+<g font-family="Arial,Helvetica,sans-serif"><rect x="56" y="45" width="8" height="8" rx="2" fill="#c3ff52"/><text x="78" y="55" fill="#c3ff52" font-size="15" letter-spacing="3">PROXY UTILITY / XRAY CORE</text>
+<text x="51" y="193" fill="#f2f6ed" font-size="113" font-weight="700" letter-spacing="-6">BMray<tspan fill="#c3ff52">.</tspan></text>
+<text x="56" y="250" fill="#f2f6ed" font-size="32" font-weight="600">Твой маршрут. Твои правила.</text>
+<text x="56" y="295" fill="#a7b4a8" font-size="20">Прокси-клиент на базе Xray.</text>
+<text x="56" y="379" fill="#b4c1b4" font-size="14" letter-spacing="2">ANDROID</text><path d="M155 365v18" stroke="#39463b"/><text x="175" y="379" fill="#b4c1b4" font-size="14" letter-spacing="2">BUILT AROUND XRAY</text>
+<text x="1185" y="381" fill="#657563" font-size="13" text-anchor="end" letter-spacing="3">01 / CONNECT</text></g>
+<g transform="translate(805 20) scale(4)" fill="#c3ff52"><path d="M52.5 24 47 47 24 52.5H52.5Z M55.5 24 61 47 84 52.5H55.5Z M24 55.5 47 61 52.5 84V55.5Z M55.5 55.5H84L61 61 55.5 84Z"/></g>
+<rect x=".5" y=".5" width="1279" height="429" rx="24" fill="none" stroke="#324132"/></svg>
