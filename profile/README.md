@@ -1,54 +1,29 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/hero.svg" width="100%" alt="BMray — Твой маршрут. Твои правила." />
+<img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/hero.svg?v=2" width="100%" alt="BMray — Functional proxy utility" />
 </p>
+
+**BMray** — прокси-клиент для Android на базе **Xray**. Поддерживает подписки, хосты с автовыбором, маршрутизацию и Telegram Proxy.
+
+### Скачать
 
 <p align="center">
-<a href="https://bmray.xyz"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/website.svg" width="32%" alt="Официальный сайт BMray" /></a>
-<a href="https://t.me/BMrayOfficial"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/telegram.svg" width="32%" alt="Новости BMray в Telegram" /></a>
-<a href="mailto:contact@bmray.xyz"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/contact.svg" width="32%" alt="Связаться с BMray" /></a>
+<a href="https://github.com/ROikkrl/BMray/releases/download/v0.4.9/BMray-0.4.9-android.apk"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/download.svg" width="48%" alt="Скачать APK BMray" /></a>
+<a href="https://github.com/ROikkrl/BMray/releases"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/releases.svg" width="48%" alt="Все релизы BMray" /></a>
 </p>
 
-### Твой маршрут начинается здесь
+Текущий релиз: **0.4.9** · Android · APK для установки на устройство. Релизы пока доступны участникам приватного репозитория; для загрузки требуется соответствующий доступ GitHub.
 
-**BMray** — приложение для работы с прокси на базе **Xray**. Эта организация — официальная точка входа в проект: сайт, новости и связь с командой.
+### Документация
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<p align="center">
+<a href="https://github.com/BMray-proxy/.github/blob/main/users.md"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/users.svg" width="48%" alt="Пользователям — руководство BMray" /></a>
+<a href="https://github.com/BMray-proxy/.github/blob/main/developers.md"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/developers.svg" width="48%" alt="Разработчикам — интеграция BMray" /></a>
+</p>
 
-**01 · Подписки**
-
-Все нужные подключения рядом. Поддержка ссылки Telegram Proxy из подписки.
-
-</td>
-<td width="33%" valign="top">
-
-**02 · Проверка связи**
-
-Proxy GET с выбором Default, Keep-alive и Double для проверки соединения.
-
-</td>
-<td width="33%" valign="top">
-
-**03 · Понятные ошибки**
-
-Конкретный код ответа сервера помогает разобраться, что произошло при запросе.
-
-</td>
-</tr>
-</table>
-
-### Оставайся на связи
-
-| Куда | Зачем |
+| [Пользователям](https://github.com/BMray-proxy/.github/blob/main/users.md) | [Разработчикам](https://github.com/BMray-proxy/.github/blob/main/developers.md) |
 | :--- | :--- |
-| [bmray.xyz](https://bmray.xyz) | Официальный сайт проекта |
-| [BMray Official](https://t.me/BMrayOfficial) | Новости и обновления |
-| [contact@bmray.xyz](mailto:contact@bmray.xyz) | Вопросы и обратная связь |
+| Первое подключение, подписки, пинг и раздельное туннелирование. Темы, иконки, мини-кнопка и виджет. | Хосты с автовыбором и Xray JSON. Правила Remnawave для BMray. Заголовок `tgproxy-url` и условие по статусу подписки. |
 
 ---
 
-<p align="center">
-<b>BMray</b> · Твой маршрут. Твои правила.<br />
-<sub>Powered by Xray. Made for your connection.</sub>
-</p>
+[Сайт](https://bmray.xyz) · [Telegram](https://t.me/BMrayOfficial) · [Связаться](mailto:contact@bmray.xyz)
