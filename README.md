@@ -1,8 +1,9 @@
-# BMray · Organization profile
+# BMray
 
-Public profile and original visual assets for [BMray](https://github.com/BMray-proxy).
+Публичный профиль и документация BMray.
 
-- `profile/README.md` — organization home
-- `*.svg` — profile artwork
-
-[Website](https://bmray.xyz) · [Telegram](https://t.me/BMrayOfficial)
+- [Пользователям](users.md)
+- [Разработчикам](developers.md)
+- [Пример правил ответа Remnawave](response-rules.json)
+- [Релизы](https://github.com/ROikkrl/BMray/releases) — требуется доступ к репозиторию
+- [Организация](https://github.com/BMray-proxy)
