@@ -6,7 +6,7 @@ BMray — прокси-клиент для Android на базе Xray. Для п
 
 ## Установка и первое подключение
 
-1. Скачайте APK из [последнего релиза](https://github.com/BMray-proxy/BMray-releases/releases). Публичный репозиторий — [BMray-releases](https://github.com/BMray-proxy/BMray-releases). Файлы пока не опубликованы: Android 0.4.9 ожидает переноса, готового IPA для iOS пока нет.
+1. Скачайте APK из [последнего релиза](https://github.com/BMray-proxy/BMray-releases/releases). Публичный репозиторий — [BMray-releases](https://github.com/BMray-proxy/BMray-releases). Android 0.4.9 опубликован: [скачать APK](https://github.com/BMray-proxy/BMray-releases/releases/download/v0.4.9/BMray-0.4.9-android.apk). Вход в GitHub не требуется. Готового IPA для iOS пока нет.
 2. Откройте APK на Android и подтвердите установку. При обновлении используйте файл с той же подписью; удаление приложения может привести к потере локальных настроек.
 3. В BMray нажмите **«+»**. Добавьте ссылку подписки или сервера; в меню добавления также доступны буфер обмена и QR-код.
 4. Выберите сервер и нажмите кнопку подключения. При первом подключении Android попросит разрешить создание VPN.
