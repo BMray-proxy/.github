@@ -7,11 +7,11 @@
 ### Скачать
 
 <p align="center">
-<a href="https://github.com/BMray-proxy/BMray-releases#android"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/download.svg?v=3" width="48%" alt="Android — статус публичной сборки" /></a>
+<a href="https://github.com/BMray-proxy/BMray-releases/releases/download/v0.4.9/BMray-0.4.9-android.apk"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/download.svg?v=4" width="48%" alt="Скачать APK BMray для Android" /></a>
 <a href="https://github.com/BMray-proxy/BMray-releases#ios"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/ios.svg" width="48%" alt="iOS — статус публичной сборки" /></a>
 </p>
 
-Публичный репозиторий сборок: [BMray-releases](https://github.com/BMray-proxy/BMray-releases). **Файлы пока не опубликованы:** Android 0.4.9 ожидает переноса; готового IPA для iOS пока нет. [Статус iOS](https://github.com/BMray-proxy/BMray-releases#ios).
+Публичный репозиторий сборок: [BMray-releases](https://github.com/BMray-proxy/BMray-releases). **Android 0.4.9 доступен для скачивания без авторизации.** Готового IPA для iOS пока нет. [Статус iOS](https://github.com/BMray-proxy/BMray-releases#ios).
 
 ### Документация
 
