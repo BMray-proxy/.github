@@ -7,11 +7,11 @@
 ### Скачать
 
 <p align="center">
-<a href="https://bmray.xyz/#releases"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/download.svg?v=4" width="48%" alt="Скачать APK BMray для Android" /></a>
+<a href="https://bmray.xyz/#releases"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/download.svg?v=0.5.1" width="48%" alt="Скачать APK BMray для Android" /></a>
 <a href="https://bmray.xyz/#releases"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/ios.svg" width="48%" alt="iOS — статус публичной сборки" /></a>
 </p>
 
-Публичный репозиторий сборок: [BMray-releases](https://bmray.xyz). Готового IPA для iOS пока нет. [Статус iOS](https://github.com/BMray-proxy/BMray-releases#ios).
+Актуальные сборки доступны в [разделе загрузок BMray](https://bmray.xyz/#releases). Готового IPA для iOS пока нет.
 
 ### Документация
 
@@ -27,3 +27,4 @@
 ---
 
 [Сайт](https://bmray.xyz) · [Telegram](https://t.me/BMrayOfficial) · [Связаться](mailto:contact@bmray.xyz)
+
