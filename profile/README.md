@@ -11,7 +11,7 @@
 <a href="https://github.com/BMray-proxy/BMray-releases#ios"><img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/ios.svg" width="48%" alt="iOS — статус публичной сборки" /></a>
 </p>
 
-Публичный репозиторий сборок: [BMray-releases](https://github.com/BMray-proxy/BMray-releases). **Android 0.4.9 доступен для скачивания без авторизации.** Готового IPA для iOS пока нет. [Статус iOS](https://github.com/BMray-proxy/BMray-releases#ios).
+Публичный репозиторий сборок: [BMray-releases](https://bmray.xyz). Готового IPA для iOS пока нет. [Статус iOS](https://github.com/BMray-proxy/BMray-releases#ios).
 
 ### Документация
 
