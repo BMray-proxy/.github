@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/BMray-proxy/.github/main/hero.svg" width="100%" alt="BMray — Functional proxy utility" />
 </p>
 
-**BMray** — прокси-клиент для Android на базе **Xray**. Поддерживает подписки, хосты с автовыбором, маршрутизацию и Telegram Proxy.
+**BMray** — прокси-клиент для Android и Windows на базе **Xray**. Поддерживает подписки, хосты с автовыбором, маршрутизацию и Telegram Proxy.
 
 ### Скачать
 
